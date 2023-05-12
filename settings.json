@@ -1,0 +1,16 @@
+{
+    "explorer.compactFolders": false,
+    "tabnine.experimentalAutoImports": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "cls && python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "python.defaultInterpreterPath": "python",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "bold",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
+}
